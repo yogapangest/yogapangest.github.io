@@ -289,25 +289,6 @@ footer p {
     margin: auto;
   }
 
-  .contact-form-text {
-    width: 100%;
-    margin: 16px 0;
-    border: 0;
-    background: grey;
-    padding: 20px 20px;
-    color: white;
-  }
-
-  .contact-form-btn {
-    float: right;
-    border: 0;
-    background: grey;
-    color: white;
-    border-radius: 20px;
-    padding: 12px 50px;
-    transition: 0.5s;
-  }
-
   .gallery {
     width: 620px;
     margin: 10px auto;

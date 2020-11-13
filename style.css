@@ -32,7 +32,7 @@ html {
 
 /* Jumbotron */
 .jumbotron {
-  background-image: url(image/Backgound.jpg);
+  background-image: url(image/Pang.jpg);
   background-size: cover;
   height: 760px;
   background-attachment: fixed;
@@ -58,6 +58,7 @@ html {
   opacity: 0;
   transform: translate(0, 30px);
   transition: 1s;
+  font-weight: lighter;
 }
 
 /* Kemunculan Judul */
